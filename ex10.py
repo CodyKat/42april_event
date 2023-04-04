@@ -62,5 +62,5 @@ print(string5)
 print("string7 : ", end='')
 countLetter = ord('Z') - ord('A') + 1
 string6 = "RSOEBLNZAYNDQOT QT IKITREUM OEBO YEUM, NKG AYTN PGSZNMB RT: K"
-# url : https://www.boxentriq.com/code-breaking/playfair-cipher
+# url : https://planetcalc.com/7751/
 result6 = "CONGRATUYFTISQN SN DECODNPG THIS LNPE, TMH YFNO LETXTEC BS: M"
